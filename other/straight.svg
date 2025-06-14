@@ -1,14 +1,14 @@
 <svg width="133" height="156" viewBox="0 0 133 156" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="67" y="45" width="65" height="22" stroke="#E0E0E0" stroke-width="0.5"/>
-<rect x="1" y="45" width="66" height="22" stroke="#E0E0E0" stroke-width="0.5"/>
-<rect x="1" y="1" width="131" height="44" stroke="#E0E0E0" stroke-width="0.5"/>
-<rect x="67" y="67" width="65" height="22" stroke="#E0E0E0" stroke-width="0.5"/>
-<rect x="1" y="67" width="66" height="22" stroke="#E0E0E0" stroke-width="0.5"/>
-<rect x="67" y="89" width="65" height="22" stroke="#E0E0E0" stroke-width="0.5"/>
-<rect x="1" y="89" width="66" height="22" stroke="#E0E0E0" stroke-width="0.5"/>
-<rect x="67" y="111" width="65" height="22" stroke="#E0E0E0" stroke-width="0.5"/>
-<rect x="1" y="111" width="66" height="22" stroke="#E0E0E0" stroke-width="0.5"/>
-<rect x="67" y="133" width="65" height="22" stroke="#E0E0E0" stroke-width="0.5"/>
-<rect x="1" y="133" width="66" height="22" stroke="#E0E0E0" stroke-width="0.5"/>
-<path d="M98.65 143C98.65 143.193 98.8067 143.35 99 143.35C99.1933 143.35 99.35 143.193 99.35 143H98.65ZM33.7525 143.247C33.8892 143.384 34.1108 143.384 34.2475 143.247L36.4749 141.02C36.6116 140.883 36.6116 140.662 36.4749 140.525C36.3382 140.388 36.1166 140.388 35.9799 140.525L34 142.505L32.0201 140.525C31.8834 140.388 31.6618 140.388 31.5251 140.525C31.3884 140.662 31.3884 140.883 31.5251 141.02L33.7525 143.247ZM99 143H99.35V44.5H99H98.65V143H99ZM34 44.5H33.65V143H34H34.35V44.5H34ZM66.5 12V11.65C48.3574 11.65 33.65 26.3574 33.65 44.5H34H34.35C34.35 26.744 48.744 12.35 66.5 12.35V12ZM99 44.5H99.35C99.35 26.3574 84.6426 11.65 66.5 11.65V12V12.35C84.256 12.35 98.65 26.744 98.65 44.5H99Z" fill="black"/>
+<rect x="67" y="45" width="65" height="22" stroke="#CFCFCF" stroke-width="0.7"/>
+<rect x="1" y="45" width="66" height="22" stroke="#CFCFCF" stroke-width="0.7"/>
+<rect x="1" y="1" width="131" height="44" stroke="#CFCFCF" stroke-width="0.7"/>
+<rect x="67" y="67" width="65" height="22" stroke="#CFCFCF" stroke-width="0.7"/>
+<rect x="1" y="67" width="66" height="22" stroke="#CFCFCF" stroke-width="0.7"/>
+<rect x="67" y="89" width="65" height="22" stroke="#CFCFCF" stroke-width="0.7"/>
+<rect x="1" y="89" width="66" height="22" stroke="#CFCFCF" stroke-width="0.7"/>
+<rect x="67" y="111" width="65" height="22" stroke="#CFCFCF" stroke-width="0.7"/>
+<rect x="1" y="111" width="66" height="22" stroke="#CFCFCF" stroke-width="0.7"/>
+<rect x="67" y="133" width="65" height="22" stroke="#CFCFCF" stroke-width="0.7"/>
+<rect x="1" y="133" width="66" height="22" stroke="#CFCFCF" stroke-width="0.7"/>
+<path d="M98.5 143C98.5 143.276 98.7239 143.5 99 143.5C99.2761 143.5 99.5 143.276 99.5 143H98.5ZM33.6464 143.354C33.8417 143.549 34.1583 143.549 34.3536 143.354L37.5355 140.172C37.7308 139.976 37.7308 139.66 37.5355 139.464C37.3403 139.269 37.0237 139.269 36.8284 139.464L34 142.293L31.1716 139.464C30.9763 139.269 30.6597 139.269 30.4645 139.464C30.2692 139.66 30.2692 139.976 30.4645 140.172L33.6464 143.354ZM99 143H99.5V44.5H99H98.5V143H99ZM34 44.5H33.5V143H34H34.5V44.5H34ZM66.5 12V11.5C48.2746 11.5 33.5 26.2746 33.5 44.5H34H34.5C34.5 26.8269 48.8269 12.5 66.5 12.5V12ZM99 44.5H99.5C99.5 26.2746 84.7254 11.5 66.5 11.5V12V12.5C84.1731 12.5 98.5 26.8269 98.5 44.5H99Z" fill="black"/>
 </svg>
